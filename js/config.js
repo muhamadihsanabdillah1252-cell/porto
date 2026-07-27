@@ -24,13 +24,13 @@ const CONFIG = {
 
   // ============ HALAMAN 1: HOME / PROFIL ============
   profile: {
-    name: "NAMA KAMU",                 // ganti dengan nama kamu
-    role: "Video Editor · Graphic Designer · Photographer",
-    photo: "assets/profile/profile.jpg", // foto utama kamu
-    bio: "Tulis deskripsi singkat tentang dirimu di sini. Misalnya: fokus di bidang apa, sudah berapa lama berkarya, atau gaya editing/foto yang jadi ciri khas kamu.",
+    name: "MUHAMAD IHSAN ABDILLAH",                 // ganti dengan nama kamu
+    role: "Video Editor · Graphic Designer · Photographer · Videographer",
+    photo: "assets/profile/pf.png", // foto utama kamu
+    bio: "Video Editor, Graphic Designer, dan Photographer yang sedang aktif mengembangkan skill di bidang visual. Fokus pada editing yang rapi, desain yang komunikatif, dan hasil foto yang natural. Terbuka untuk proyek kolaborasi guna terus belajar dan berkembang.",
     location: "Bogor, Indonesia",
     status: "Terbuka untuk proyek freelance",
-    email: "email@kamu.com"
+    email: "muhamadihsanabdillah1252@gmail.com"
   },
 
   // Tombol sosial media di halaman Home. "value" itu teks yang tampil di
@@ -42,10 +42,10 @@ const CONFIG = {
   // membuka Gmail (compose di browser), ganti urlnya jadi format ini:
   // "https://mail.google.com/mail/?view=cm&fs=1&to=emailkamu@gmail.com"
   socials: [
-    { value: "Instagram", url: "https://instagram.com/username_kamu" },
-    { value: "YouTube",   url: "https://youtube.com/@username_kamu" },
-    { value: "Email",     url: "mailto:email@kamu.com" },
-    { value: "WhatsApp",  url: "https://wa.me/62812xxxxxxx" }
+    { value: "Instagram", url: "https://instagram.com/mistyihsan" },
+    { value: "YouTube",   url: "https://youtube.com/@MistyIhsan" },
+    { value: "Email",     url: "mailto:muhamadihsanabdillah1252@gmail.com" },
+    { value: "WhatsApp",  url: "https://wa.me/6282299364639" }
   ],
 
   // Daftar software/aplikasi yang kamu pakai.
@@ -56,8 +56,7 @@ const CONFIG = {
     { name: "Adobe Premiere Pro", logo: "assets/software/premiere.png", initials: "Pr" },
     { name: "Adobe Photoshop",    logo: "assets/software/photoshop.png", initials: "Ps" },
     { name: "Adobe Lightroom",    logo: "assets/software/lightroom.png", initials: "Lr" },
-    { name: "Canva",         logo: "assets/software/canva.png",         initials: "Cv" },
-    { name: "After Effects", logo: "assets/software/aftereffects.png",  initials: "Ae" }
+    { name: "Canva",         logo: "assets/software/canva.png",         initials: "Cv" }
   ],
 
   // ============ HALAMAN 2: POSTER ============
